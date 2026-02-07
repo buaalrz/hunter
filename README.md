@@ -1,7 +1,7 @@
 # hunter
 jobs
 欢迎大牛和我联系
-微信：1852099774
+微信：13764491774
 
 关键领域及词汇：
 模型: "GPT-3.5" or "GPT-4" or "GPT" or "llama" or "code llama" or " llama 2" or "codex" or "LLM" or "大模型" or "混元" or "文心一言" or "通义千问" or "星火认知" or "palm 2" or "Alpaca" or "WizardCoder"
